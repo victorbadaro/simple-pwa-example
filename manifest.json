@@ -1,4 +1,5 @@
 {
+  "id": "/?home=true",
   "name": "PWA Example",
   "short_name": "PWA Example",
   "start_url": "/?home=true",
