@@ -1,6 +1,8 @@
 # 📱 simple-pwa-example
 Este é um simples projeto como exemplo de contrução de uma aplicação **PWA** (Progressive Web App).
 
+[![README.md](https://img.shields.io/badge/-Read%20in%20English-brightgreen?style=for-the-badge)](./README.md)
+
 ## ✨ Demo
 ![demo](https://user-images.githubusercontent.com/9096344/150696033-be1e48ec-14f2-4441-b990-739175ea24c8.gif)
 
