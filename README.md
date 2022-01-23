@@ -1,6 +1,8 @@
 # 📱 simple-pwa-example
 This is a simple example of a PWA (Progressive Web App) application.
 
+[![LEIAME.md](https://img.shields.io/badge/-Leia%20em%20Portugu%C3%AAs-brightgreen?style=for-the-badge)](./LEIAME.md)
+
 ## ✨ Demo
 ![demo](https://user-images.githubusercontent.com/9096344/150696033-be1e48ec-14f2-4441-b990-739175ea24c8.gif)
 
